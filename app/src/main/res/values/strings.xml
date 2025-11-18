@@ -1,0 +1,17 @@
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">MyExpenseTrackerFikri</string>
+
+    <!-- Prompt untuk Spinner -->
+    <string name="pilih_kategori">Pilih Kategori</string>
+
+    <!-- Array Kategori untuk Spinner -->
+    <string-array name="kategori_pengeluaran">
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Belanja</item>
+        <item>Tagihan</item>
+        <item>Hiburan</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
